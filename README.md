@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in Data Science / Engineering
-- 🤖 Building private automation tools in my spare time
-- 🌱 Highly involded in cryptocurrencies, blockchains and DeFi
+- 🔭 I’m currently working in Data Engineering
+- 🤖 Building private automation tools / SaaS in my spare time
+- 🌱 Highly involded in Blockchains technologies / currencies and Finance
 
-📫 Reach me on Discord : Nusephived#2938
+📫 Reach me on Discord : nusephived
 
 ### Tech stack 💻
 
