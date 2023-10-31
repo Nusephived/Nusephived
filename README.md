@@ -4,7 +4,7 @@
 - 🤖 Building private automation tools / SaaS in my spare time
 - 🌱 Highly involded in Blockchains technologies / currencies and Finance
 
-📫 Reach me on Discord : nusephived
+📫 Reach me on Discord : nusephived or LinkedIn
 
 ### Tech stack 💻
 
