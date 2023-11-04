@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in Data & DevOps Engineering
+- 🔭 I’m currently working in DevOps & Data Engineering
 - 🤖 Building private automation tools / SaaS in my spare time
 - 🌱 Highly involded in Blockchains technologies / currencies and Finance
 
