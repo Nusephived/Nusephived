@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working in DevOps & Data Engineering
-- 🤖 Building private automation tools / SaaS in my spare time
+- 🤖 Building private automation tools & SaaS in my spare time
 - 🌱 Highly involded in Blockchains technologies / currencies and Finance
 
 📫 Reach me on Discord : nusephived or LinkedIn
